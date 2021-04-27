@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619528905 source:e:\ilya\programming\cb repos\art.project\main.cpp
+	<iostream>
+	<vector>
+	"plant.h"
+
+1618749983 source:e:\ilya\programming\cb repos\art.project\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1618749983 e:\ilya\programming\cb repos\art.project\plant.h
+
